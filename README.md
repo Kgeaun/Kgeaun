@@ -2,7 +2,7 @@
 
 <div align=center>
 
-## Contect
+## Contact
 <img src="https://img.shields.io/badge/kge010206@dsm.hs.kr-EA4335?style=flat-square&logo=gmail&logoColor=white">
 <img src="https://img.shields.io/badge/kge02160@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
 
